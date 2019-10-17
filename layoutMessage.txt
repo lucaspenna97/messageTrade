@@ -1,0 +1,5 @@
+//Objeto Completo
+005|999999|999999|R|99/99/9999|99:99|Lucas|Exemplo de mensagem enviada|
+
+//Objeto Resumido
+004|999999|
